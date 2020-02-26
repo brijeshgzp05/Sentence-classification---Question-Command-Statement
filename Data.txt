@@ -1,0 +1,3 @@
+https://www.kaggle.com/brijeshgzp05/sentence-types-question-command-and-statement
+
+You can download the data from this kaggle link.
